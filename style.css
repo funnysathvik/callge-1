@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(to left top,white, rgb(235, 215, 215), rgb(228, 176, 176), rgb(235, 127, 127), rgb(226, 84, 84), rgb(240, 69, 69), rgb(243, 33, 33), red);
+}
+#button{
+    border-radius: 15px;
+}
